@@ -1,0 +1,287 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+valu
+Z0 !s110 1734493195
+!i10b 1
+!s100 SVUiIWCb5UiCfZG?G51k93
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ia8z9S:>k`W:j@0aNm:T^[2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/pjaya/Documents/appu/veri/exp9
+w1733283854
+8C:/Users/pjaya/Documents/appu/veri/exp9/alu.v
+FC:/Users/pjaya/Documents/appu/veri/exp9/alu.v
+!i122 698
+L0 1 30
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1734493194.000000
+!s107 C:/Users/pjaya/Documents/appu/veri/exp9/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/pjaya/Documents/appu/veri/exp9/alu.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+valu_decoder
+R0
+!i10b 1
+!s100 OH:m]QE9e[CZ^9^2fQlED3
+R1
+I[;hR5:`AX0PCe6TFJoWS]3
+R2
+R3
+Z7 w1734493162
+Z8 8C:/Users/pjaya/Documents/appu/veri/exp9/main_decoder.v
+Z9 FC:/Users/pjaya/Documents/appu/veri/exp9/main_decoder.v
+!i122 701
+L0 59 21
+R4
+r1
+!s85 0
+31
+Z10 !s108 1734493195.000000
+Z11 !s107 C:/Users/pjaya/Documents/appu/veri/exp9/main_decoder.v|
+Z12 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/pjaya/Documents/appu/veri/exp9/main_decoder.v|
+!i113 1
+R5
+R6
+vdata_memory
+R0
+!i10b 1
+!s100 XE=^S3QMB6]_R1?SE677c1
+R1
+IXYiMM>M4z8?IhGe0EF?X63
+R2
+R3
+w1734260081
+8C:/Users/pjaya/Documents/appu/veri/exp9/dmem.v
+FC:/Users/pjaya/Documents/appu/veri/exp9/dmem.v
+!i122 699
+L0 1 27
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/pjaya/Documents/appu/veri/exp9/dmem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/pjaya/Documents/appu/veri/exp9/dmem.v|
+!i113 1
+R5
+R6
+vdecoder
+R0
+!i10b 1
+!s100 lTg14Sckb^`SQn;M<YDXZ2
+R1
+IMfPInOMVel=i^QfDNR<`A1
+R2
+R3
+R7
+R8
+R9
+!i122 701
+L0 81 17
+R4
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R5
+R6
+vextend
+Z13 !s110 1734493196
+!i10b 1
+!s100 1CjZ;lIz4KQac19aEa<1D3
+R1
+IHjFZIdibASQJ1WL3[[dMG0
+R2
+R3
+Z14 w1734260085
+Z15 8C:/Users/pjaya/Documents/appu/veri/exp9/singlecycleprocessor.v
+Z16 FC:/Users/pjaya/Documents/appu/veri/exp9/singlecycleprocessor.v
+!i122 703
+L0 37 13
+R4
+r1
+!s85 0
+31
+R10
+Z17 !s107 C:/Users/pjaya/Documents/appu/veri/exp9/singlecycleprocessor.v|
+Z18 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/pjaya/Documents/appu/veri/exp9/singlecycleprocessor.v|
+!i113 1
+R5
+R6
+vinstruction_memory
+R0
+!i10b 1
+!s100 RdfaYz]Bif9=E3;1Jm_mI1
+R1
+ID:X7naJAlYjXf7fd4flF42
+R2
+R3
+w1734492643
+8C:/Users/pjaya/Documents/appu/veri/exp9/inmem.v
+FC:/Users/pjaya/Documents/appu/veri/exp9/inmem.v
+!i122 700
+L0 1 16
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/pjaya/Documents/appu/veri/exp9/inmem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/pjaya/Documents/appu/veri/exp9/inmem.v|
+!i113 1
+R5
+R6
+vmain_decoder
+R0
+!i10b 1
+!s100 >0[e?aAPVVUhc4RA^;Gd?3
+R1
+II8:YMi;[^oEVP=VQDAC>02
+R2
+R3
+R7
+R8
+R9
+!i122 701
+L0 1 57
+R4
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R5
+R6
+vmux
+R13
+!i10b 1
+!s100 XjNPK0_RZF@L=z85eNG0E3
+R1
+If0J46KN@7>P^N2?V9m`dR1
+R2
+R3
+R14
+R15
+R16
+!i122 703
+L0 26 10
+R4
+r1
+!s85 0
+31
+R10
+R17
+R18
+!i113 1
+R5
+R6
+vprogram_counter
+R13
+!i10b 1
+!s100 KKkmF;bIHozKoi7fUIBFc2
+R1
+IXmZJkA3HCzdoC9V>R;H`12
+R2
+R3
+w1733375003
+8C:/Users/pjaya/Documents/appu/veri/exp9/program counter.v
+FC:/Users/pjaya/Documents/appu/veri/exp9/program counter.v
+!i122 705
+L0 1 12
+R4
+r1
+!s85 0
+31
+Z19 !s108 1734493196.000000
+!s107 C:/Users/pjaya/Documents/appu/veri/exp9/program counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/pjaya/Documents/appu/veri/exp9/program counter.v|
+!i113 1
+R5
+R6
+vregfile
+R0
+!i10b 1
+!s100 FJniS1amn^N[I0zVMWz>33
+R1
+IHAGjG[MRDVz9Yzf[zmWd83
+R2
+R3
+w1734492764
+8C:/Users/pjaya/Documents/appu/veri/exp9/regfile.v
+FC:/Users/pjaya/Documents/appu/veri/exp9/regfile.v
+!i122 702
+L0 1 35
+R4
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/pjaya/Documents/appu/veri/exp9/regfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/pjaya/Documents/appu/veri/exp9/regfile.v|
+!i113 1
+R5
+R6
+vsingle_cycle_processor
+R13
+!i10b 1
+!s100 ?86gB>YEjl[f@C8:VK?_>0
+R1
+Id4k;XXzzVi]2ZQGAJlBGa3
+R2
+R3
+R14
+R15
+R16
+!i122 703
+L0 1 24
+R4
+r1
+!s85 0
+31
+R10
+R17
+R18
+!i113 1
+R5
+R6
+vtb
+R13
+!i10b 1
+!s100 nL5P`OM`5USOKkI`5fKHi2
+R1
+ICYME5Bo8TPBkGDGd`ic2U3
+R2
+R3
+w1734492946
+8C:/Users/pjaya/Documents/appu/veri/exp9/tb.v
+FC:/Users/pjaya/Documents/appu/veri/exp9/tb.v
+!i122 704
+L0 1 20
+R4
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/pjaya/Documents/appu/veri/exp9/tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/pjaya/Documents/appu/veri/exp9/tb.v|
+!i113 1
+R5
+R6

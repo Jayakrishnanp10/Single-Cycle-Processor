@@ -1,0 +1,12 @@
+module program_counter(input clk,reset,
+			input [31:0] PCNext,
+			output reg [31:0] PC);
+initial begin
+PC<=32'h00000000;
+end
+always @(posedge clk) begin
+if(reset==1'b0)PC<=PCNext;
+else PC<=32'h00000000;
+
+end
+endmodule

@@ -1,0 +1,43 @@
+C:/Users/pjaya/Documents/appu/veri/exp9/dmem.v {1 {vlog -work work -stats=none C:/Users/pjaya/Documents/appu/veri/exp9/dmem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module data_memory
+
+Top level modules:
+	data_memory
+
+} {} {}} {C:/Users/pjaya/Documents/appu/veri/exp9/program counter.v} {1 {vlog -work work -stats=none {C:/Users/pjaya/Documents/appu/veri/exp9/program counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module program_counter
+
+Top level modules:
+	program_counter
+
+} {} {}} C:/Users/pjaya/Documents/appu/veri/exp9/tb.v {1 {vlog -work work -stats=none C:/Users/pjaya/Documents/appu/veri/exp9/tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} C:/Users/pjaya/Documents/appu/veri/exp9/regfile.v {1 {vlog -work work -stats=none C:/Users/pjaya/Documents/appu/veri/exp9/regfile.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Users/pjaya/Documents/appu/veri/exp9/inmem.v {1 {vlog -work work -stats=none C:/Users/pjaya/Documents/appu/veri/exp9/inmem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module instruction_memory
+
+Top level modules:
+	instruction_memory
+
+} {} {}} C:/Users/pjaya/Documents/appu/veri/exp9/alu.v {1 {vlog -work work -stats=none C:/Users/pjaya/Documents/appu/veri/exp9/alu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}}
